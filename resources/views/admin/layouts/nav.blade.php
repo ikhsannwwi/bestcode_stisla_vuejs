@@ -34,7 +34,7 @@
                             <div class="search-item">
                                 <a href="#">
                                     <img class="mr-3 rounded" width="30"
-                                        src="{{ asset('templateStisla/assets/img/products/product-3-50.png') }}"
+                                        src="{{ template_stisla('img/products/product-3-50.png') }}"
                                         alt="product">
                                     oPhone S9 Limited Edition
                                 </a>
@@ -42,7 +42,7 @@
                             <div class="search-item">
                                 <a href="#">
                                     <img class="mr-3 rounded" width="30"
-                                        src="{{ asset('templateStisla/assets/img/products/product-2-50.png') }}"
+                                        src="{{ template_stisla('img/products/product-2-50.png') }}"
                                         alt="product">
                                     Drone X2 New Gen-7
                                 </a>
@@ -50,7 +50,7 @@
                             <div class="search-item">
                                 <a href="#">
                                     <img class="mr-3 rounded" width="30"
-                                        src="{{ asset('templateStisla/assets/img/products/product-1-50.png') }}"
+                                        src="{{ template_stisla('img/products/product-1-50.png') }}"
                                         alt="product">
                                     Headphone Blitz
                                 </a>
@@ -90,7 +90,7 @@
                                 <a href="#" class="dropdown-item dropdown-item-unread">
                                     <div class="dropdown-item-avatar">
                                         <img alt="image"
-                                            src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                                            src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                             class="rounded-circle">
                                         <div class="is-online"></div>
                                     </div>
@@ -103,7 +103,7 @@
                                 <a href="#" class="dropdown-item dropdown-item-unread">
                                     <div class="dropdown-item-avatar">
                                         <img alt="image"
-                                            src="{{ asset('templateStisla/assets/img/avatar/avatar-2.png') }}"
+                                            src="{{ template_stisla('img/avatar/avatar-2.png') }}"
                                             class="rounded-circle">
                                     </div>
                                     <div class="dropdown-item-desc">
@@ -115,7 +115,7 @@
                                 <a href="#" class="dropdown-item dropdown-item-unread">
                                     <div class="dropdown-item-avatar">
                                         <img alt="image"
-                                            src="{{ asset('templateStisla/assets/img/avatar/avatar-3.png') }}"
+                                            src="{{ template_stisla('img/avatar/avatar-3.png') }}"
                                             class="rounded-circle">
                                         <div class="is-online"></div>
                                     </div>
@@ -128,7 +128,7 @@
                                 <a href="#" class="dropdown-item">
                                     <div class="dropdown-item-avatar">
                                         <img alt="image"
-                                            src="{{ asset('templateStisla/assets/img/avatar/avatar-4.png') }}"
+                                            src="{{ template_stisla('img/avatar/avatar-4.png') }}"
                                             class="rounded-circle">
                                     </div>
                                     <div class="dropdown-item-desc">
@@ -140,7 +140,7 @@
                                 <a href="#" class="dropdown-item">
                                     <div class="dropdown-item-avatar">
                                         <img alt="image"
-                                            src="{{ asset('templateStisla/assets/img/avatar/avatar-5.png') }}"
+                                            src="{{ template_stisla('img/avatar/avatar-5.png') }}"
                                             class="rounded-circle">
                                     </div>
                                     <div class="dropdown-item-desc">
@@ -217,7 +217,7 @@
                     </li>
                     <li class="dropdown"><a href="#" data-toggle="dropdown"
                             class="nav-link dropdown-toggle nav-link-lg nav-link-user">
-                            <img alt="image" src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                            <img alt="image" src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                 class="rounded-circle mr-1">
                             <div class="d-sm-none d-lg-inline-block">Hi, Ujang Maman</div>
                         </a>

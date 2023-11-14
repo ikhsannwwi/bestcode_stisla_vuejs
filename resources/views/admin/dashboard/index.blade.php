@@ -119,7 +119,7 @@
                     <ul class="list-unstyled list-unstyled-border">
                         <li class="media">
                             <img class="mr-3 rounded-circle" width="50"
-                                src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                                src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                 alt="avatar">
                             <div class="media-body">
                                 <div class="float-right text-primary">Now</div>
@@ -130,7 +130,7 @@
                         </li>
                         <li class="media">
                             <img class="mr-3 rounded-circle" width="50"
-                                src="{{ asset('templateStisla/assets/img/avatar/avatar-2.png') }}"
+                                src="{{ template_stisla('img/avatar/avatar-2.png') }}"
                                 alt="avatar">
                             <div class="media-body">
                                 <div class="float-right">12m</div>
@@ -141,7 +141,7 @@
                         </li>
                         <li class="media">
                             <img class="mr-3 rounded-circle" width="50"
-                                src="{{ asset('templateStisla/assets/img/avatar/avatar-3.png') }}"
+                                src="{{ template_stisla('img/avatar/avatar-3.png') }}"
                                 alt="avatar">
                             <div class="media-body">
                                 <div class="float-right">17m</div>
@@ -152,7 +152,7 @@
                         </li>
                         <li class="media">
                             <img class="mr-3 rounded-circle" width="50"
-                                src="{{ asset('templateStisla/assets/img/avatar/avatar-4.png') }}"
+                                src="{{ template_stisla('img/avatar/avatar-4.png') }}"
                                 alt="avatar">
                             <div class="media-body">
                                 <div class="float-right">21m</div>
@@ -189,7 +189,7 @@
                         <div class="col-6 col-sm-3 col-lg-3 mb-4 mb-md-0">
                             <div class="avatar-item mb-0">
                                 <img alt="image"
-                                    src="{{ asset('templateStisla/assets/img/avatar/avatar-5.png') }}"
+                                    src="{{ template_stisla('img/avatar/avatar-5.png') }}"
                                     class="img-fluid" data-toggle="tooltip" title="Alfa Zulkarnain">
                                 <div class="avatar-badge" title="Editor" data-toggle="tooltip"><i
                                         class="fas fa-wrench"></i></div>
@@ -198,7 +198,7 @@
                         <div class="col-6 col-sm-3 col-lg-3 mb-4 mb-md-0">
                             <div class="avatar-item mb-0">
                                 <img alt="image"
-                                    src="{{ asset('templateStisla/assets/img/avatar/avatar-4.png') }}"
+                                    src="{{ template_stisla('img/avatar/avatar-4.png') }}"
                                     class="img-fluid" data-toggle="tooltip" title="Egi Ferdian">
                                 <div class="avatar-badge" title="Admin" data-toggle="tooltip"><i
                                         class="fas fa-cog"></i></div>
@@ -207,7 +207,7 @@
                         <div class="col-6 col-sm-3 col-lg-3 mb-4 mb-md-0">
                             <div class="avatar-item mb-0">
                                 <img alt="image"
-                                    src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                                    src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                     class="img-fluid" data-toggle="tooltip" title="Jaka Ramadhan">
                                 <div class="avatar-badge" title="Author" data-toggle="tooltip"><i
                                         class="fas fa-pencil-alt"></i></div>
@@ -216,7 +216,7 @@
                         <div class="col-6 col-sm-3 col-lg-3 mb-4 mb-md-0">
                             <div class="avatar-item mb-0">
                                 <img alt="image"
-                                    src="{{ asset('templateStisla/assets/img/avatar/avatar-2.png') }}"
+                                    src="{{ template_stisla('img/avatar/avatar-2.png') }}"
                                     class="img-fluid" data-toggle="tooltip" title="Ryan">
                                 <div class="avatar-badge" title="Admin" data-toggle="tooltip"><i
                                         class="fas fa-cog"></i></div>
@@ -372,7 +372,7 @@
                                 <li class="media">
                                     <a href="#">
                                         <img class="mr-3 rounded" width="50"
-                                            src="{{ asset('templateStisla/assets/img/products/product-1-50.png') }}"
+                                            src="{{ template_stisla('img/products/product-1-50.png') }}"
                                             alt="product">
                                     </a>
                                     <div class="media-body">
@@ -388,7 +388,7 @@
                                 <li class="media">
                                     <a href="#">
                                         <img class="mr-3 rounded" width="50"
-                                            src="{{ asset('templateStisla/assets/img/products/product-2-50.png') }}"
+                                            src="{{ template_stisla('img/products/product-2-50.png') }}"
                                             alt="product">
                                     </a>
                                     <div class="media-body">
@@ -403,7 +403,7 @@
                                 <li class="media">
                                     <a href="#">
                                         <img class="mr-3 rounded" width="50"
-                                            src="{{ asset('templateStisla/assets/img/products/product-3-50.png') }}"
+                                            src="{{ template_stisla('img/products/product-3-50.png') }}"
                                             alt="product">
                                     </a>
                                     <div class="media-body">
@@ -436,7 +436,7 @@
                                 <label class="custom-control-label" for="cbx-1"></label>
                             </div>
                             <img class="mr-3 rounded-circle" width="50"
-                                src="{{ asset('templateStisla/assets/img/avatar/avatar-4.png') }}"
+                                src="{{ template_stisla('img/avatar/avatar-4.png') }}"
                                 alt="avatar">
                             <div class="media-body">
                                 <div class="badge badge-pill badge-danger mb-1 float-right">Not
@@ -454,7 +454,7 @@
                                 <label class="custom-control-label" for="cbx-2"></label>
                             </div>
                             <img class="mr-3 rounded-circle" width="50"
-                                src="{{ asset('templateStisla/assets/img/avatar/avatar-5.png') }}"
+                                src="{{ template_stisla('img/avatar/avatar-5.png') }}"
                                 alt="avatar">
                             <div class="media-body">
                                 <div class="badge badge-pill badge-primary mb-1 float-right">Completed
@@ -470,7 +470,7 @@
                                 <label class="custom-control-label" for="cbx-3"></label>
                             </div>
                             <img class="mr-3 rounded-circle" width="50"
-                                src="{{ asset('templateStisla/assets/img/avatar/avatar-2.png') }}"
+                                src="{{ template_stisla('img/avatar/avatar-2.png') }}"
                                 alt="avatar">
                             <div class="media-body">
                                 <div class="badge badge-pill badge-warning mb-1 float-right">Progress
@@ -486,7 +486,7 @@
                                 <label class="custom-control-label" for="cbx-4"></label>
                             </div>
                             <img class="mr-3 rounded-circle" width="50"
-                                src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                                src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                 alt="avatar">
                             <div class="media-body">
                                 <div class="badge badge-pill badge-danger mb-1 float-right">Not
@@ -558,7 +558,7 @@
                                     </td>
                                     <td>
                                         <a href="#" class="font-weight-600"><img
-                                                src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                                                src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                                 alt="avatar" width="30"
                                                 class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
                                     </td>
@@ -584,7 +584,7 @@
                                     </td>
                                     <td>
                                         <a href="#" class="font-weight-600"><img
-                                                src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                                                src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                                 alt="avatar" width="30"
                                                 class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
                                     </td>
@@ -610,7 +610,7 @@
                                     </td>
                                     <td>
                                         <a href="#" class="font-weight-600"><img
-                                                src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                                                src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                                 alt="avatar" width="30"
                                                 class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
                                     </td>
@@ -636,7 +636,7 @@
                                     </td>
                                     <td>
                                         <a href="#" class="font-weight-600"><img
-                                                src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                                                src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                                 alt="avatar" width="30"
                                                 class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
                                     </td>
@@ -662,7 +662,7 @@
                                     </td>
                                     <td>
                                         <a href="#" class="font-weight-600"><img
-                                                src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                                                src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                                 alt="avatar" width="30"
                                                 class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
                                     </td>
@@ -688,7 +688,7 @@
                                     </td>
                                     <td>
                                         <a href="#" class="font-weight-600"><img
-                                                src="{{ asset('templateStisla/assets/img/avatar/avatar-1.png') }}"
+                                                src="{{ template_stisla('img/avatar/avatar-1.png') }}"
                                                 alt="avatar" width="30"
                                                 class="rounded-circle mr-1"> Bagus Dwi Cahya</a>
                                     </td>
